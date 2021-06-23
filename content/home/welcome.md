@@ -6,7 +6,7 @@ widget: hero
 widget_id: widget001
 headless: true
 weight: 10
-title: MOSAIC Lab
+title: MOSAICCC Lab
 subtitle: ""
 <<<<<<< HEAD
 hero_media: sensingimage.jpg
