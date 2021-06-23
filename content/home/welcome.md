@@ -1,21 +1,6 @@
 ---
-advanced:
-  ? css_style
-  ? css_class
 widget: hero
 widget_id: widget001
-headless: true
 weight: 10
-title: MOSAICCC Lab
-subtitle: ""
-<<<<<<< HEAD
-hero_media: sensingimage.jpg
-=======
->>>>>>> 43912376f062ca170a04361f1efd60e2b3bd0b7c
-design:
-  columns: "1"
-  background:
-    image: ""
-hero_media: sensingimage.jpg
+title: XYZ
 ---
-The MOSAIC Lab at FIU investigates...
